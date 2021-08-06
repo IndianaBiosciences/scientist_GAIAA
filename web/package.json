@@ -1,0 +1,70 @@
+{
+  "name": "scientist_GAIAA",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "highcharts": "^9.1.0",
+    "highcharts-more": "^0.1.7",
+    "highcharts-react-official": "^3.0.0",
+    "react": "^16.13.1",
+    "react-cytoscapejs": "^1.2.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.63.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "npm run watch:css && react-scripts start",
+    "build": "npm run watch:css && react-scripts build",
+    "deploy": "aws s3 sync --delete build/ s3://gaiaa.indianabiosciences.org/;",
+    "deploy_static": "aws s3 sync --delete static/ s3://gaiaa-static.indianabiosciences.org/;",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "jest": {
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ],
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!src/index.js"
+    ],
+    "coverageReporters": [
+      "text"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "enzyme-to-json": "^3.6.1",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "react-native-mock-render": "^0.1.9",
+    "react-native-web": "^0.14.9",
+    "tailwindcss": "^2.1.1"
+  }
+}

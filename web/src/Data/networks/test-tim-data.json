@@ -1,0 +1,937 @@
+[
+  {
+    "data": {
+      "id": "INPP5D",
+      "name": "INPP5D",
+      "HGNC": "6079",
+      "ENSEMBL": "ENSG00000168918",
+      "UNIPROT": "Q92835",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 400,
+      "y": 400
+    }
+  }, {
+    "data": {
+      "id": "BCR",
+      "name": "BCR",
+      "HGNC": "1014",
+      "ENSEMBL": "ENSG00000186716",
+      "UNIPROT": "P11274",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 400,
+      "y": 100
+    }
+  }, {
+    "data": {
+      "id": "GRB2",
+      "name": "GRB2",
+      "HGNC": "4566",
+      "ENSEMBL": "ENSG00000177885",
+      "UNIPROT": "P62993",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 477,
+      "y": 110
+    }
+  }, {
+    "data": {
+      "id": "PIK3R1",
+      "name": "PIK3R1",
+      "group": "gene",
+      "HGNC": "8979",
+      "ENSEMBL": "ENSG00000145675",
+      "UNIPROT": "P27986",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true, "position": {
+      "x": 549,
+      "y": 140
+    }
+  }, {
+    "data": {
+      "id": "PTPN11",
+      "name": "PTPN11",
+      "HGNC": "9644",
+      "ENSEMBL": "ENSG00000179295",
+      "UNIPROT": "Q06124",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 612,
+      "y": 187
+    }
+  }, {
+    "data": {
+      "id": "JAK1",
+      "name": "JAK1",
+      "HGNC": "6190",
+      "ENSEMBL": "ENSG00000162434",
+      "UNIPROT": "P23458",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 659,
+      "y": 249
+    }
+  }, {
+    "data": {
+      "id": "ITPK1",
+      "name": "ITPK1",
+      "HGNC": "6177",
+      "ENSEMBL": "ENSG00000100605",
+      "UNIPROT": "Q13572",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 689,
+      "y": 322
+    }
+  }, {
+    "data": {
+      "id": "AREG",
+      "name": "AREG",
+      "HGNC": "651",
+      "ENSEMBL": "ENSG00000109321",
+      "UNIPROT": "P15514",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 700,
+      "y": 400
+    }
+  }, {
+    "data": {
+      "id": "PIK3CD",
+      "name": "PIK3CD",
+      "HGNC": "8977",
+      "ENSEMBL": "ENSG00000171608",
+      "UNIPROT": "O00329",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 689,
+      "y": 477
+    }
+  }, {
+    "data": {
+      "id": "FCGR2B",
+      "name": "FCGR2B",
+      "HGNC": "3618",
+      "ENSEMBL": "ENSG00000072694",
+      "UNIPROT": "P31994",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 659,
+      "y": 549
+    }
+  }, {
+    "data": {
+      "id": "TRIP10",
+      "name": "TRIP10",
+      "HGNC": "12304",
+      "ENSEMBL": "ENSG00000125733",
+      "UNIPROT": "Q15642",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 612,
+      "y": 612
+    }
+  }, {
+    "data": {
+      "id": "EPGN",
+      "name": "EPGN",
+      "HGNC": "17470",
+      "ENSEMBL": "ENSG00000182585",
+      "UNIPROT": "Q6UW88",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 550,
+      "y": 659
+    }
+  }, {
+    "data": {
+      "id": "SH3KBP1",
+      "name": "SH3KBP1",
+      "HGNC": "13867",
+      "ENSEMBL": "ENSG00000147010",
+      "UNIPROT": "Q96B97",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 477,
+      "y": 689
+    }
+  }, {
+    "data": {
+      "id": "HBEGF",
+      "name": "HBEGF",
+      "HGNC": "3059",
+      "ENSEMBL": "ENSG00000113070",
+      "UNIPROT": "Q99075",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 400,
+      "y": 700
+    }
+  }, {
+    "data": {
+      "id": "BTK",
+      "name": "BTK",
+      "HGNC": "1133",
+      "ENSEMBL": "ENSG00000010671",
+      "UNIPROT": "Q06187",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 322,
+      "y": 689
+    }
+  }, {
+    "data": {
+      "id": "EGFR",
+      "name": "EGFR",
+      "HGNC": "3236",
+      "ENSEMBL": "ENSG00000146648",
+      "UNIPROT": "P00533",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 250,
+      "y": 659
+    }
+  }, {
+    "data": {
+      "id": "MET",
+      "name": "MET",
+      "HGNC": "7029",
+      "ENSEMBL": "ENSG00000105976",
+      "UNIPROT": "P08581",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 187,
+      "y": 612
+    }
+  }, {
+    "data": {
+      "id": "PRKCD",
+      "name": "PRKCD",
+      "HGNC": "9399",
+      "ENSEMBL": "ENSG00000163932",
+      "UNIPROT": "Q05655",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 140,
+      "y": 550
+    }
+  }, {
+    "data": {
+      "id": "CBL",
+      "name": "CBL",
+      "HGNC": "1541",
+      "ENSEMBL": "ENSG00000110395",
+      "UNIPROT": "P22681",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 110,
+      "y": 477
+    }
+  }, {
+    "data": {
+      "id": "EGF",
+      "name": "EGF",
+      "HGNC": "3229",
+      "ENSEMBL": "ENSG00000138798",
+      "UNIPROT": "P01133",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 100,
+      "y": 400
+    }
+  }, {
+    "data": {
+      "id": "EPOR",
+      "name": "EPOR",
+      "HGNC": "3416",
+      "ENSEMBL": "ENSG00000187266",
+      "UNIPROT": "P19235",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 110,
+      "y": 322
+    }
+  }, {
+    "data": {
+      "id": "PTEN",
+      "name": "PTEN",
+      "HGNC": "9588",
+      "ENSEMBL": "ENSG00000171862",
+      "UNIPROT": "P60484",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 140,
+      "y": 250
+    }
+  }, {
+    "data": {
+      "id": "FLT3",
+      "name": "FLT3",
+      "HGNC": "3765",
+      "ENSEMBL": "ENSG00000122025",
+      "UNIPROT": "P36888",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 187,
+      "y": 187
+    }
+  }, {
+    "data": {
+      "id": "ERBB2",
+      "name": "ERBB2",
+      "HGNC": "3430",
+      "ENSEMBL": "ENSG00000141736",
+      "UNIPROT": "P04626",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 249,
+      "y": 140
+    }
+  }, {
+    "data": {
+      "id": "SHC1",
+      "name": "SHC1",
+      "HGNC": "10840",
+      "ENSEMBL": "ENSG00000160691",
+      "UNIPROT": "P29353",
+      "group": "gene",
+      "query": true,
+      "gene": true
+    },
+    "group": "nodes",
+    "removed": false, "selected": false, "selectable": true, "locked": false, "grabbed": false, "grabbable": true,
+    "position": {
+      "x": 322,
+      "y": 110
+    }
+  },
+  {
+    "data": {
+      "source": "AREG",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_AREG_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "BCR",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_BCR_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "BCR",
+      "target": "INPP5D",
+      "group": "controls state change of",
+      "id": "e_BCR_INPP5D_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "BCR",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_BCR_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "CBL",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_CBL_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "EGF",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_EGF_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "EGFR",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_EGFR_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "EPGN",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_EPGN_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "EPOR",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_EPOR_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "EPOR",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_EPOR_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "ERBB2",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_ERBB2_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "FCGR2B",
+      "target": "INPP5D",
+      "group": "controls state change of",
+      "id": "e_FCGR2B_INPP5D_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "FCGR2B",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_FCGR2B_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "FLT3",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_FLT3_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "FLT3",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_FLT3_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "GRB2",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_GRB2_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "GRB2",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_GRB2_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "HBEGF",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_HBEGF_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "ERBB2",
+      "group": "in catalysis",
+      "id": "e_INPP5D_ERBB2_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "ITPK1",
+      "group": "in catalysis",
+      "id": "e_INPP5D_ITPK1_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "PIK3CD",
+      "group": "in catalysis",
+      "id": "e_INPP5D_PIK3CD_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "PIK3R1",
+      "group": "in catalysis",
+      "id": "e_INPP5D_PIK3R1_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "PTEN",
+      "group": "in catalysis",
+      "id": "e_INPP5D_PTEN_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "AREG",
+      "group": "controls state change of",
+      "id": "e_INPP5D_AREG_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "BTK",
+      "group": "controls state change of",
+      "id": "e_INPP5D_BTK_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "CBL",
+      "group": "controls state change of",
+      "id": "e_INPP5D_CBL_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "EGF",
+      "group": "controls state change of",
+      "id": "e_INPP5D_EGF_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "EGFR",
+      "group": "controls state change of",
+      "id": "e_INPP5D_EGFR_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "EPGN",
+      "group": "controls state change of",
+      "id": "e_INPP5D_EPGN_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "GRB2",
+      "group": "controls state change of",
+      "id": "e_INPP5D_GRB2_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "HBEGF",
+      "group": "controls state change of",
+      "id": "e_INPP5D_HBEGF_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "PRKCD",
+      "group": "controls state change of",
+      "id": "e_INPP5D_PRKCD_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "SH3KBP1",
+      "group": "controls state change of",
+      "id": "e_INPP5D_SH3KBP1_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "TRIP10",
+      "group": "controls state change of",
+      "id": "e_INPP5D_TRIP10_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "INPP5D",
+      "target": "BTK",
+      "group": "controls transport of",
+      "id": "e_INPP5D_BTK_ct"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "ITPK1",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_ITPK1_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "JAK1",
+      "target": "INPP5D",
+      "group": "controls state change of",
+      "id": "e_JAK1_INPP5D_csc"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "JAK1",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_JAK1_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "MET",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_MET_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "MET",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_MET_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PIK3CD",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_PIK3CD_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PIK3R1",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_PIK3R1_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PIK3R1",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_PIK3R1_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PRKCD",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_PRKCD_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PTEN",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_PTEN_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PTPN11",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_PTPN11_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "PTPN11",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_PTPN11_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "SH3KBP1",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_SH3KBP1_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "SHC1",
+      "target": "INPP5D",
+      "group": "in catalysis",
+      "id": "e_SHC1_INPP5D_cat"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "SHC1",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_SHC1_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  },
+  {
+    "data": {
+      "source": "TRIP10",
+      "target": "INPP5D",
+      "group": "interacts with",
+      "id": "e_TRIP10_INPP5D_int"
+    },
+    "position": {},
+    "group": "edges"
+  }
+]
