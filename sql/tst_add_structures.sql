@@ -1,0 +1,55 @@
+INSERT INTO molecule_dictionary (
+  molregno,
+  pref_name,
+  structure_type,
+  inorganic_flag,
+  chirality
+)
+VALUES
+  (
+    1,
+    'PRAZOSIN',
+    'MOL',
+    0,
+    0
+  ),
+  (
+    2,
+    'NICOTINE',
+    'MOL',
+    0,
+    0
+  ),
+  (
+    3,
+    'OFLOXACIN',
+    'MOL',
+    0,
+    0
+  );
+INSERT INTO compound_structures (
+  molregno,
+  standard_inchi,
+  standard_inchi_key,
+  canonical_smiles
+)
+VALUES
+  (
+    1,
+    'InChI=1S/C19H21N5O4/c1-26-15-10-12-13(11-16(15)27-2)21-19(22-17(12)20)24-7-5-23(6-8-24)18(25)14-4-3-9-28-14/h3-4,9-11H,5-8H2,1-2H3,(H2,20,21,22)',
+    'IENZQIKPVFGBNW-UHFFFAOYSA-N',
+    'COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC'
+  ),
+  (
+    2,
+    'InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1',
+    'SNICXCGAKADSCV-JTQLQIEISA-N',
+    'CN1CCC[C@H]1c1cccnc1'
+  ),
+  (
+    3,
+    'InChI=1S/C18H20FN3O4/c1-10-9-26-17-14-11(16(23)12(18(24)25)8-22(10)14)7-13(19)15(17)21-5-3-20(2)4-6-21/h7-8,10H,3-6,9H2,1-2H3,(H,24,25)',
+    'GSDSWSVVBLHKDQ-UHFFFAOYSA-N',
+    'CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23'
+  )
+  ;

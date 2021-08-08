@@ -1,0 +1,37 @@
+INSERT INTO activities (
+  activity_id,
+  assay_id,
+  molregno,
+  type,
+  relation,
+  value,
+  units
+)
+VALUES
+  (
+    1,
+    1,
+    1,
+    'Potency',
+    '=',
+    7.9433,
+    'um'
+  ),
+  (
+    2,
+    1,
+    2,
+    'Potency',
+    '=',
+    31.6228,
+    'um'
+  ),
+  (
+    3,
+    1,
+    3,
+    'Potency',
+    '=',
+    3.1632,
+    'um'
+  );
