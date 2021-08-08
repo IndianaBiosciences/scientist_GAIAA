@@ -5,6 +5,7 @@ import Home from './components/Home'
 import Data from './components/viewers/QueryData';
 import Design from './components/process/Design';
 import Select from './components/process/Select';
+import Synthesize from './components/process/Synthesize';
 import Test from './components/process/Test';
 import Status from './components/process/Status';
 import Dev_Test from './components/Dev_Test'
@@ -24,6 +25,7 @@ function App() {
             <Route path="/data" component = { Data }/>
             <Route path="/design" component = { Design }/>
             <Route path="/select" component = { Select }/>
+            <Route path="/synthesize" component = { Synthesize }/>
             <Route path="/test" component = { Test }/>
             <Route path="/status" component = { Status }/>
             <Route path="/dev_test" component = { Dev_Test }/>

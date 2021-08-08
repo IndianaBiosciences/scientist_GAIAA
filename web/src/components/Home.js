@@ -22,6 +22,8 @@ export default class Home extends React.Component {
     (!debug) || console.log('Home.js render() {this.state}:', this.state);
     (!debug) || console.log('Home.js render() {this.props}:', this.props);
 
+    let aspire_cycle_img_url = appConfig.graphics_base_url + "ASPIRE_Cycle_Diagram.svg"
+
     return(
       <div className="flex flex-col">
         <div className="text-lg font-bold text-ibri w-full p-2">
@@ -55,11 +57,16 @@ export default class Home extends React.Component {
             </li>
           </div>
         </div>
-        <div className="flex">
-          <InfoCard
-            title="Title"
-            content=""
-          />
+        <div className="text-lg font-bold text-ibri w-full p-2">
+          Proposed Interaction of Components to enable the full Design-Select-Synthesis-Test Drug Discovery Research Cycle
+        </div>
+        <div>
+          <div className="mb-5">
+          Human-Guided, AI-Driven, and Automated Open Drug Discovery Platform with the critical components color-coded and labeled as defined in the challenge.
+          </div>
+          <div>
+            <img className="w-1/2 justify-center" src={aspire_cycle_img_url} alt="Depiction of the ASPIRE proposed Discovery Cycle"/>
+          </div>
         </div>
         <div className="text-xs text-right bg-white rounded p-2 m-1">
           For assistance contact <a href="mailto:drobertson@indianabiosciences.org">drobertson@indianabiosciences.org</a>

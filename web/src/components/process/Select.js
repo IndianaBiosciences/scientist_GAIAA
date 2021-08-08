@@ -11,7 +11,7 @@ export default class Select extends Component {
 		return (
 			<div class="">
 				<div class="text-lg">
-					<b>Test</b>: Submit and Confirm Status and Availability of Data.
+					<b>Select</b>: Based on the Design, select (scientist-guided and AI-assisted) the compounds to send for synthesis.
 				</div>
 				<div class="text-sm italic" pt-2>
 					Placeholder

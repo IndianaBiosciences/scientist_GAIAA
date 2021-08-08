@@ -8,12 +8,13 @@ let debug = appConfig.debug.base;
 let logo="https://www.indianabiosciences.org/img/logo-inverse.svg";
 
 let choices = [
-  { view: 'home',   url: '/#/',       label: 'Home'},
-  { view: 'data',   url: '/#/data',   label: 'Data'},
-  { view: 'design', url: '/#/design', label: 'Design'},
-  { view: 'select', url: '/#/select', label: 'Select'},
-  { view: 'test',   url: '/#/test',   label: 'Test'},
-  { view: 'status', url: '/#/status', label: 'Status'}
+  { view: 'home',       url: '/#/',       label: 'Home'},
+  { view: 'data',       url: '/#/data',   label: 'Data'},
+  { view: 'design',     url: '/#/design', label: 'Design'},
+  { view: 'select',     url: '/#/select', label: 'Select'},
+  { view: 'synthesize', url: '/#/synthesize', label: 'Synthesize'},
+  { view: 'test',       url: '/#/test',   label: 'Test'},
+  { view: 'status',     url: '/#/status', label: 'Status'}
 ]
 
 export default class Navbar extends React.Component {

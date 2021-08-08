@@ -1,0 +1,22 @@
+{
+  "ID": "CHEMBL1650851",
+  "POSSIBLE ROUTES" :
+  [
+    {
+      "SOURCE": "RobRxn",
+      "URL" : "",
+      "Date Run": "2021-08-06",
+      "Version" : "Sequence 0",
+      "Confidence" : 0.994,
+      "Steps" : [
+        {
+          "Name": "Step 1",
+          "Type": "Ester to alcohol reduction, Confidence: 0.997",
+          "Reaction" : "COC(=O)C1(N2CCC(n3c(=O)[nH]c4ccccc43)CC2)CCCCCCC1.C1CCOC1.[AlH4-].[Li+]>>O=C1
+N(C2CCN(C3(CCCCCCC3)CO)CC2)C2C(=CC=CC=2)N1"
+        }
+        
+      ]
+    }
+  ]
+}

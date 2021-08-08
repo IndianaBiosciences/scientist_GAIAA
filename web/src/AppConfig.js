@@ -14,5 +14,6 @@ export const appConfig = {
 	},
 	chembl_tgt_url: "https://www.ebi.ac.uk/chembl/target_report_card/",
 	chembl_mol_url: "https://www.ebi.ac.uk/chembl/compound_report_card/",
-	mol_img_base_url: "http://target-explorer-static.indianabiosciences.org.s3-website-us-east-1.amazonaws.com/mol_images/"
+	mol_img_base_url: "http://target-explorer-static.indianabiosciences.org.s3-website-us-east-1.amazonaws.com/mol_images/",
+	graphics_base_url: "http://gaiaa-static.indianabiosciences.org.s3-website-us-east-1.amazonaws.com/graphics/"
 };

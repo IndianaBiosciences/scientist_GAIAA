@@ -11,7 +11,7 @@ export default class Synthesize extends Component {
 		return (
 			<div class="">
 				<div class="text-lg">
-					<b>Test</b>: Submit and Confirm Status and Availability of Data.
+					<b>Synthesize</b>: Submit selected compounds for synthesize to lab, automated syntheses, or CRO and track status.
 				</div>
 				<div class="text-sm italic" pt-2>
 					Placeholder
